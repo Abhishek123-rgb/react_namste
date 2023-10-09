@@ -1,0 +1,22 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abhishek123-rgb/react_namste.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abhishek123-rgb/react_namste/issues"
+  },
+  "homepage": "https://github.com/Abhishek123-rgb/react_namste#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  }
+}
